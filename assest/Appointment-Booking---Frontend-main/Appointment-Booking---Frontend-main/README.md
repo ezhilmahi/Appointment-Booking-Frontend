@@ -43,14 +43,4 @@ If hosting separately, update .env to the correct backend URL.
 <img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/f62bf497-8710-4af6-a19d-017356fbc71c" />
 <img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/10b3f4e9-2bae-4cc2-8e33-0333b0baf8f2" />
 <img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/42a08696-98fe-4ad5-b992-8e5fd645b80a" />
-<img width="1915" height="868" alt="image" src="https://github.com/user-attachments/assets/18fa6413-81e8-41ef-80c3-f73e51394681" />
-
-👨‍💻 Author
-
-Nandhakumar Nagaraj
-
-Full Stack Developer Cum Trainer – Java / Node.js
-
-nandhakumar.n.dev@gmail.com
-
-I'm here to help.
+<img width="1915" height="868" alt="image" src="https://github.com/user-attachments/assets/18fa6413-81e8-41ef-80c3-f73e51394681"
