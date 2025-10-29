@@ -41,12 +41,3 @@ appointment-booking/
 
 
 
-👨‍💻 Author 
-
-Nandhakumar Nagaraj
-
-Full Stack Developer Cum Trainer – Java / Node.js
-
-nandhakumar.n.dev@gmail.com
-
-I'm here to help.
